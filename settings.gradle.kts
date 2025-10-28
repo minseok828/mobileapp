@@ -23,3 +23,5 @@ rootProject.name = "202510989"
 include(":app")
 include(":w04")
 include(":w05")
+include(":w06")
+include(":w072")
